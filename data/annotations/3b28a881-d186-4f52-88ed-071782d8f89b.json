@@ -1,5 +1,406 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title of the film \"Suspense\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Title",
+          "category": "Titles"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Titles"
+        }
+      ],
+      "uuid": "02c4fff1-d1c2-4abc-976f-063a723b036c"
+    },
+    {
+      "start_time": 6,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cast for the film: Lois Weber as the wife; Valentine Paul as the husband; Douglas Gerard as the pursuer; Sam Kaufman as the tramp"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cast Card",
+          "category": "Titles"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Titles"
+        }
+      ],
+      "uuid": "a8993e86-ed82-40a1-9b31-5bf3843f24e4"
+    },
+    {
+      "start_time": 52,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Letter from the maid to their owners: \"I am not leaving without notice. No servant will stay in this lonesome place. I will put the back door key under the mat. Mamie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Insert Shot",
+          "category": "Titles"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Titles"
+        }
+      ],
+      "uuid": "0a4d4cde-c9a4-40f2-95b5-cf4b76fb6950"
+    },
+    {
+      "start_time": 132,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I won't get home until late. Will you be allright\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intertitle",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e20561d4-afc0-451b-b543-9d0b3a60181f"
+    },
+    {
+      "start_time": 139,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here the director uses a three-way-split-screen with the husband, the wife, and the tramp. This cinematographic decision can only be perceived as revolutionary for a period which was conquered by the traditional and stagnant reliance on static LS proscenium style of shooting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "55c57870-135b-4494-b8bd-064b16362f25"
+    },
+    {
+      "start_time": 295,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"A tramp is prowling around the house\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intertitle",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a4cae551-fc21-4ae6-a864-1b315ccb5419"
+    },
+    {
+      "start_time": 302,
+      "end_time": 337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the director returns to using the unique three-way-split. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "6e6945f1-41a0-45c8-a874-58468e182b45"
+    },
+    {
+      "start_time": 316,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Now he is opening the kitchen door\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intertitle",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6c457264-53e4-46d5-bb13-1207b26d8d42"
+    },
+    {
+      "start_time": 328,
+      "end_time": 331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Now he is in the - - -\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Intertitle",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "682c025c-91cc-4e85-8300-e7042e6148cb"
+    },
+    {
+      "start_time": 339,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long Shot proscenium style shot"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "618dd8aa-69cc-4bbb-aa79-58c67c31ef09"
+    },
+    {
+      "start_time": 392,
+      "end_time": 405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The wife hiding in her room and the deliberate decision to include the mirror."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Use of Mirror"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "1b6659b3-74d4-4b33-84f8-8009114a2be5"
+    },
+    {
+      "start_time": 406,
+      "end_time": 415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The director breaks away from the stagnant camera and places it within the moving car, using the side view mirror to indicate that the police are approaching."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Use of Mirror"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "e1569588-5f69-43f1-a848-a9b0fba79d73"
+    },
+    {
+      "start_time": 435,
+      "end_time": 462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is a very unique scene within the short film in which during the chase, the runnaway car drives over an innoncent man who is lighting a cigarrete in middle of the road. He is hit, in what for the time was a very well executed shot, he is helped up, and the scene continues. This is perceived as a needed comedic pause with the tramp closely coming towards the wife"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Notes",
+          "category": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "b837731f-1d82-457d-9e82-8c020b53894f"
+    },
+    {
+      "start_time": 483,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During this car scene, the camera is placed inside of the moving police car, and adds this layer of complexity within the chase, where the police are close to catching up with the husband. These decision to place the camera on the moving car, as opposed to outside, gives life to such an active scene."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Notes",
+          "category": "Film Analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "672a7e5f-fe2f-4825-b675-a0ba4d46e25f"
+    },
+    {
+      "start_time": 506,
+      "end_time": 510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a repeating shot of the camera using an over the head shot from the husband, and on the right side using the side-view-mirror to indicate that the police are extremely close to getting him. Towards the end, the police falls off the car."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Use of Mirror"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Analysis"
+        }
+      ],
+      "uuid": "8ef6c101-e7db-4209-bc65-e772b482c523"
+    },
+    {
+      "start_time": 510,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Score composed and performed by Robbie Kaye for CBGP"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Closing Title Card",
+          "category": "Titles"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Titles"
+        }
+      ],
+      "uuid": "37bbf6f8-8168-4d83-bbe5-a07acf10fd14"
+    }
+  ],
   "set": "Default",
   "event_id": "bf6aa1f7-ffa9-406a-8715-fd2cf664abcb",
   "source_id": "a8a74256-9b1b-47e7-8034-a213a9a599e1"
