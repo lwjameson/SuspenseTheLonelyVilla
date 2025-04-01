@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "lwjameson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "lwjameson",
     "title": "The Lonely Villa (1909) & Suspense (1913)",
@@ -95,6 +101,8 @@
       ]
     },
     "created_at": "2024-10-17T20:36:35.411Z",
-    "updated_at": "2024-10-21T18:19:08.274Z"
+    "updated_at": "2024-10-21T18:19:08.274Z",
+    "is_private": false,
+    "generate_pages_site": true
   }
 }
